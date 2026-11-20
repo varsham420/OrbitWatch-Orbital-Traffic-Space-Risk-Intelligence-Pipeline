@@ -89,7 +89,7 @@ You will need a free NASA API key from [api.nasa.gov](https://api.nasa.gov). Nev
 
 | Phase | Status |
 |---|---|
-| 1. Ingestion | Not started |
+| 1. Ingestion | In progress (CelesTrak stations group done; other sources pending) | 
 | 2. Cleaning + SQL | Not started |
 | 3. Data modeling | Not started |
 | 4. PySpark | Not started |
