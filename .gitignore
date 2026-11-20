@@ -1,0 +1,14 @@
+# Secrets: never commit these
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Pipeline data: large and sometimes licensed, so it stays local
+data/bronze/*
+data/silver/*
+data/gold/*
+!data/**/.gitkeep
